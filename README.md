@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Enzo VOISIN</h1>
+<h1 align="center">Hello there 👋, I'm Enzo VOISIN</h1>
 <h3 align="center">A passionate computer engineering student</h3>
 
 - 🔭 I’m currently looking for a **internship abroad**
 
 - 🌱 I’m currently learning **Web and mobile skills**
 
-- 👨‍💻 All of my projects are available at [my CV (linkedin)]
+- 👨‍💻 All of my projects are available on my CV (linkedin)
 
 - 💬 Ask me about **what you want 🤷**
 
 - 📫 How to reach me **enzo.voisin@etudiant.univ-rennes1.fr**
 
-- 📄 Know about my experiences [still on linkedin]
+- 📄 Know about my experiences still on linkedin
 
 - ⚡ Fun fact **what is a cat in space ? a cattelite**
 
