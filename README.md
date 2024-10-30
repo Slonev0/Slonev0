@@ -1,15 +1,13 @@
 <h1 align="center">Hello there 👋, I'm Enzo VOISIN</h1>
-<h3 align="center">A passionate computer engineering student</h3>
+<h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently looking for a **internship abroad**
-
-- 🌱 I’m currently learning **Web and mobile skills**
+- 🌱 I’m currently learning **React and Springboot skills**
 
 - 👨‍💻 All of my projects are available on my CV (linkedin)
 
 - 💬 Ask me about **what you want 🤷**
 
-- 📫 How to reach me **enzo.voisin@etudiant.univ-rennes1.fr**
+- 📫 How to reach me **enzov.95100@gmail.com**
 
 - 📄 Know about my experiences still on linkedin
 
